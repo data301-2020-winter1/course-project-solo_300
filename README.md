@@ -12,7 +12,7 @@ This data set is from a public domain, with it's content including statistics on
 
 ## Team Members
 
-***Eric Achenbach
+***Eric Achenbach***
 
 ## References
 
