@@ -3,7 +3,7 @@
 
 ## Describe your topic/interest in about 150-200 words
 
-What I plan on doing with this dataset is observe how factors that are considered unhealthy such as abnormal BMI or smoking ciggarettes affect hospital charges and by how much. I will also determine what age and gender groups get charged more than others. I am interested in this topic because without universal healthcare some people get affected by treatment costs more than others, and I want to determine which groups stand out apart from the others. The questions I hope to answer are specifically "How much smoking affects healthcare costs" and "What is the treatment cost to BMI relation". This data would most likely be fairly easy to build a dataset with since it is standard medical statistics
+What I plan on doing with this dataset is observe how factors that are considered unhealthy such as abnormal BMI or smoking ciggarettes affect hospital charges and by how much. I will also determine what age and gender groups get charged more than others. I am interested in this topic because without universal healthcare some people get affected by treatment costs more than others, and I want to determine which groups stand out apart from the others. The questions I hope to answer are specifically "How much smoking affects healthcare costs" and "What is the treatment cost correlation to number of children". This data would most likely be fairly easy to build a dataset with since it is standard medical statistics
 
 ## Describe your dataset in about 150-200 words
 
