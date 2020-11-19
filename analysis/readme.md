@@ -32,4 +32,5 @@ My hypothesis for Question 3 was: "Patients will be charged more on average if t
 ## ***Research Question 4***
 My hypothesis for Question 4 was: "Smokers will be charges significantly more than non-smokers". This hypothesis was indeed correct, as smokers were charged around 4.25x the amount non-smokers were charged. It is fairly obvious why this is, given the countless amounts of evidence pointing towards smoking causing health problems such as cancer and heart disease. What I was mainly looking for in this part of the dataset was how much more they will be charged, since there was no question wether or not the smoking patients would be charged more than non-smokers.
 
+## ***Conclusion***
 In conclusion, the charts used for this dataset proved to be valuable. All of my research questions were able to be answered by the graphs, and given how important hospital charges are the information this data gives would be useful in the real world.
