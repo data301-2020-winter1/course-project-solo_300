@@ -13,9 +13,11 @@ All of the previous values were used to determine the average hospital charge re
 * More children generally means higher charges
 * Smoking drastically increases hospital charges
 
-All of the said results have visualized graphs stores in the images directory.
-
 ## ***Research Analysis***
+
+## ***Introduction***
+
+## ***Research Questions***
 My research questions when starting this project were as follows:
 * What is the correlation of age to hospital charges?
 * Which gender is charged more?
@@ -45,3 +47,6 @@ My hypothesis for Question 4 was: "Smokers will be charges significantly more th
 
 ## ***Conclusion***
 In conclusion, the charts used for this dataset proved to be valuable. All of my research questions were able to be answered by the graphs, and given how important hospital charges are the information this data gives would be useful in the real world.
+
+## ***References***
+All data was gathered by Miri Choi and can be found here: https://www.kaggle.com/mirichoi0218/insurance
