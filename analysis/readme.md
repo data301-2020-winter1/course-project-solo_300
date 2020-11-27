@@ -1,12 +1,12 @@
 ## ***Exploratory Data Analysis***
-In total, this analysis included the following columns:
+This analysis included the following information from the dataset:
 * Age
 * Sex
 * Children
 * Smoker
 * Charges
 
-All of the previous values were used to determine the average hospital charge relative to each column. The results were similar to what one would expect.
+All of the previous values were used to determine the average hospital charge relative to each data type. The results were similar to what one would expect.
 
 * As age increases, cost goes up linearly
 * Males are charges slightly more than females
