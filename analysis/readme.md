@@ -1,12 +1,12 @@
 ## ***Exploratory Data Analysis***
 This analysis included the following information from the dataset:
-* Age
-* Sex
-* Children
-* Smoker
-* Charges
+* Age - Age of patient
+* Sex - Sex of patient
+* Children - Number of children patient has
+* Smoker - If patient is a smoker
+* Charges - Amount patient is charged
 
-All of the previous values were used to determine the average hospital charge relative to each data type. The results were similar to what one would expect.
+All of the previous values were used to determine the average hospital charge relative to each data type. The results were similar to what one would expect. All of my research questions have to do with what variable affects the average hospital charge for patients, such as wether older patients were charged more and if children had any effect on the price. I found that bar plots would be the best type of chart to use for these questions, given how the graphs make comparing the differences of groups very clear. These questions are important because healthcare is a very important topic in this political climate, and knowing who is most affected by it will be extremely valuable information to determine needed changes regarding hospital charges
 
 * As age increases, cost goes up linearly
 * Males are charges slightly more than females
@@ -16,7 +16,7 @@ All of the previous values were used to determine the average hospital charge re
 ## ***Research Analysis***
 
 ## ***Introduction***
-
+In this dataset I will be exploring all of the factors that affect the average amount a patient is charged in a hospital visit.
 ## ***Research Questions***
 My research questions when starting this project were as follows:
 * What is the correlation of age to hospital charges?
